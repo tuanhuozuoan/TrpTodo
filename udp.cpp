@@ -9,4 +9,7 @@ void udpinit()
 void serail()
 {
     printf("Hello serail");
+    printf("sort");
 }
+
+
